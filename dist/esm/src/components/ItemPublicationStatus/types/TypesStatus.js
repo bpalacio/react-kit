@@ -1,2 +1,0 @@
-import{ReactComponent as o}from"../../../assets/icons/icoDraft.svg.js";import{ReactComponent as s}from"../../../assets/icons/icoDate.svg.js";import{ReactComponent as t}from"../../../assets/icons/icoSend.svg.js";const e={DRAFT:"Draft",PLANNED:"Planned",PUBLISHED:"Published"},n=[{type:e.DRAFT,icon:o},{type:e.PLANNED,icon:s},{type:e.PUBLISHED,icon:t}];export{e as ContentTypes,n as TypesStatus};
-//# sourceMappingURL=TypesStatus.js.map
