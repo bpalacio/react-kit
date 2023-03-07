@@ -1,0 +1,2 @@
+"use strict";var e=require("../../../assets/icons/icoDraft.svg.js"),s=require("../../../assets/icons/icoDate.svg.js"),t=require("../../../assets/icons/icoSend.svg.js");const o={DRAFT:"Draft",PLANNED:"Planned",PUBLISHED:"Published"},n=[{type:o.DRAFT,icon:e.ReactComponent},{type:o.PLANNED,icon:s.ReactComponent},{type:o.PUBLISHED,icon:t.ReactComponent}];exports.ContentTypes=o,exports.TypesStatus=n;
+//# sourceMappingURL=TypesStatus.js.map
